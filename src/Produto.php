@@ -3,4 +3,6 @@
         private $codigo;
         private $nome;
         private $preco;
+        public $descricao;
+        private $status
     }
